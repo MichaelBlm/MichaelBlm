@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael Blumberg
 ========================================================================================================================================
 
-Aspiring Software Developer
+Software Developer
 ---------------------------
 
 Experienced Full Stack Developer with a background in Mathematical Statistics and pursuing an M.S. in Computer Science. Proficient in front-end development with HTML, CSS, and JavaScript, and back-end development with Node.js, Express, and MongoDB. Proven ability to learn new technologies quickly and work effectively in a team environment.
