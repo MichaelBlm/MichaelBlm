@@ -9,7 +9,7 @@ Experienced Full Stack Developer with a background in Mathematical Statistics an
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [Codepen](https://codepen.io/MichaelBlm)
 * ✉️  You can contact me at [michaelhblumberg@gmail.com](mailto:michaelhblumberg@gmail.com)
-* 🧠  I'm learning Machine Learning and Artificial Intelligence in Python
+* 🧠  I'm learning Big Data Systems as part of my Master's at ASU
 * 🤝  I'm open to collaborating on Any interesting projects relating to ML/AI
 
 ### Skills
