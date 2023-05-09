@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **michaelhblumberg@gmail.com**
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/62354b60/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/62354b60/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/michaelblm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="michaelblm" height="30" width="40" /></a>
